@@ -1,0 +1,4 @@
+Test case got failed
+passed
+ignore
+skipped
