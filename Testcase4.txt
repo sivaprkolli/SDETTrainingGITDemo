@@ -1,6 +1,7 @@
-Test case got failed
+
+Test case got ignore
 passed
 ignore
 skipped
-
 Testcase 3 is failed
+
