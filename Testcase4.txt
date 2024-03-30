@@ -2,3 +2,5 @@ Test case got failed
 passed
 ignore
 skipped
+
+Testcase 3 is failed
