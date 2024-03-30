@@ -1,4 +1,4 @@
-Test case got ignored
+Test case got ignore
 passed
 ignore
 skipped
