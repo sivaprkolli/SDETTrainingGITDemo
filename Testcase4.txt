@@ -1,4 +1,9 @@
-Test case got Skipped
+
+
+
+Test case got skipped
 passed
 ignore
 skipped
+Testcase 3 is passed.
+
