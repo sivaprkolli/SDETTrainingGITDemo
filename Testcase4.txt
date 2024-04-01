@@ -1,5 +1,5 @@
 
-Test case got ignore
+Test case got skipped
 passed
 ignore
 skipped
